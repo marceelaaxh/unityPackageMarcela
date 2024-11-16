@@ -12,7 +12,7 @@ The project includes:
   - Plastic, metallic, and transparent materials.
   - Custom UV mapping and normal mapping textures.
 - **City Environment**:
-  - Roads with proper asphalt textures and markings.
+  - Roads.
   - Pedestrian crossings and sidewalks.
   - Buildings and other urban elements.
   - Traffic lights and a functional roundabout model.
